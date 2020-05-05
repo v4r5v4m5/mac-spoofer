@@ -1,6 +1,5 @@
 # SHAMSI9-mac-hacker:
-  Hey tech freaks, I'm hereby releasing my first repository which is inspired from various geeks and made by my own script on                                                                                        
-  behalf of team Indianservers. 
+  Hey tech freaks, I'm hereby releasing my first repository which is inspired from various geeks and made by my own script on behalf of team Indianservers. 
   Hope you'll enjoy using it and don't forgot to give your valuable feedback.
 
 # Instructions:
