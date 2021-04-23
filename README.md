@@ -23,7 +23,7 @@
   Feel free to share your suggestions/ feedback in order to add some additional features to the script
 
 # Reach me at:
-   https://t.me/techshamsi9  > Telegram
+   https://twitter.com/JayavamsiV   > twitter
    shamsi9@protonmail.com    > Mail
    https://github.com/shamsi9 > GitHub
   
